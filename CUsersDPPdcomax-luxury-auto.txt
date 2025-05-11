@@ -1,0 +1,13 @@
+"Your website is entering its final phase and will be fully ready for launch soon!     Aside the integrations and the setup of the website, is there other apps that can help manage the whole operations effectively to achieve successes?                               
+  May I know when can I expect to receive the ifnal enhancement package.      
+
+
+/dcomax-luxury-auto
+├── images/         ➝ 
+├── styles.css      ➝ 
+├── index.html      ➝ 
+├── contact-form.js ➝
+├── README.md       ➝ 
+
+
+ https://github.com/nefund/dcomax-luxury-auto.git
